@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["HeaderView",""],["IndexedReader",""],["Reader","A BAM reader."],["Records","Iterator over the records of a BAM."],["Writer","A BAM writer."]],"enum":[["IndexError",""],["ReadError",""]],"trait":[["Read","A trait for a BAM reader with a read method."]],"mod":[["header",""],["pileup",""],["record",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Alignment","An aligned read in a pileup."],["Pileup","A pileup over one genomic position."],["Pileups","Iterator over pileups."]],"enum":[["Indel",""]],"type":[["Alignments","Iterator over alignments of a pileup."]]});
